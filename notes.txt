@@ -1,4 +1,0 @@
-Informations sur le projet :
-- Ce projet est destiné à apprendre Git.
-- Il contient des exemples de commandes.
-
